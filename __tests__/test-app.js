@@ -1,9 +1,10 @@
+
 const {
     readFileContent,
     getWordCounts,
     colorWord,
     printColoredLines
-} = require('../app.js');
+}=require('../app.js');
 
 const chalk = require('chalk');
 
